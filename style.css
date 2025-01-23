@@ -1,0 +1,39 @@
+body {
+	background-color: #4a4e69;
+	color: #c9ada7;
+	align-items: center;
+	font-family: monospace;
+}
+
+h2 {
+	color: black;
+}
+
+mark {
+	background-color: white;
+}
+
+img {
+	margin-left: 10px;
+	max-width: 250px;
+}
+
+.button-1{
+	font-family: monospace;
+	background-color: #5D7EA7;
+	color: #EFC6D1;
+}
+.button-2 {
+	font-family: monospace;
+	background-color: #81b29a;
+	color: #fff3b0;
+
+.button-3 {
+	font-family: monospace;
+	background-color: #FF101F;
+	color:#CABAC8;
+}
+
+img {
+	max-width: 550px;
+}
